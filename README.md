@@ -1,6 +1,3 @@
-Here’s a **README.md** you can use for your GitHub repo — it's structured for clarity, includes setup instructions, and describes the purpose of your code. You can copy-paste or tweak further if needed:
-
----
 
 # 🔧 Multi-Agents system using Azure AI + Semantic Kernel 
 
