@@ -79,6 +79,3 @@ You’ll see the agents take turns analyzing logs and applying DevOps solutions.
 - Integrate with real-time log streams (e.g., Azure Monitor, Grafana)
 - Dashboard for tracking agent decisions
 
----
-
-Let me know if you want a version with badges, licensing, or contributor info too!
